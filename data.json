@@ -1,0 +1,64 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://foto.kontan.co.id/PUNcIFQZj3MJGxOHwV3tSSL2Yus=/smart/filters:format(webp)/2022/04/05/568581984p.jpg",
+            "nama": "Strawberry Cream",
+            "size": "50 ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=jus+strawberry&source=lmns&tbm=shop&bih=650&biw=1366&rlz=1C1CHBD_idID1054ID1054&hl=id&sa=X&ved=2ahUKEwiKz7Dug_WAAxVwz6ACHeSjC84Q0pQJKAJ6BAgBEAY"
+        },
+        {
+            "foto": "https://cdn1-production-images-kly.akamaized.net/UArxzrZPJ7W0l8bZt4V-FQ62c18=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2409068/original/057137400_1542267168-HL.jpg",
+            "nama": "Mangga Thailand",
+            "size": "50 ml",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=jus+mangga&source=lmns&tbm=shop&bih=650&biw=1366&rlz=1C1CHBD_idID1054ID1054&hl=id&sa=X&ved=2ahUKEwiQpv2ZhfWAAxXa5TgGHQFkB8IQ0pQJKAJ6BAgBEAY"
+        }
+    ]
+}
